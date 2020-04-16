@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-04-16 11:38:47 -0700
+categories: 
+---
+
+I'm currently in the process of migrating content from my old website to this one.
+I'm hoping that this new site, which is based on Jekyll and GitHub Pages, will be
+easier to edit and maintain moving forward.
+
+My old site is still acessible at [here][old-website]. 
+
+[old-website]: http://www.alandegenhart.com
