@@ -22,7 +22,7 @@ title: Alan Degenhart, Ph.D.
 email: alan.degenhart@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal website. Contains information about my research,
-  publications, and other projects.
+  publications, and other projects. Views expressed are my own.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AlanDegenhart
