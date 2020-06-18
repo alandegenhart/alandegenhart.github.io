@@ -36,6 +36,7 @@ plugins:
 # Specify pages to include in the header
 header_pages:
   - projects.markdown
+  - resume.md
   - publications.markdown
   - about.markdown
 
