@@ -51,9 +51,9 @@ Wang, W., **Degenhart, A.D.**, Collinger, J.L., Vinjamuri, R., Sudre, G.P., Adel
 
 ## Selected Conference Abstracts
 
-**Degenhart, A.D.** et al. Constraints on the time course of neural population actibity. Cosyne Abstracts, 2020.
+**Degenhart, A.D.** et al. Constraints on the time course of neural population activity. Cosyne Abstracts, 2020.
 
-**Degenhart, A.D.** et al. Constraints on the time course of neural population actibity. Society for Neuroscience Annual Meeting 2019.
+**Degenhart, A.D.** et al. Constraints on the time course of neural population activity. Society for Neuroscience Annual Meeting 2019.
 
 Bishop, W.E.\*, **Degenhart, A.D.**\* et al., Extracting stable representations of neural population state from unstable recordings. Cosyne Abstracts, 2017
 
