@@ -22,6 +22,9 @@ Data scientist, engineer and neuroscientist with over 12 years of experience in 
 
 ## Experience
 
+### Allen Institute for Brain Science
+*Scientist II*, Neural Coding
+
 ### Carnegie Mellon University
 *Postdoctoral Research Associate*, Yu Laboratory, Department of Electrical and Computer Engineering
 - Developed analytical techniques for characterizing high-dimensional neural population dynamics.
