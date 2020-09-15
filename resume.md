@@ -10,7 +10,7 @@ Data scientist, engineer and neuroscientist with over 12 years of experience in 
 
 ## Education and Training
 
-**Postdoctoral Researcher**, Dept. of Elec. and Comp. Engr., Carnegie Mellon University (July 2019 — Present)
+**Postdoctoral Researcher**, Dept. of Elec. and Comp. Engr., Carnegie Mellon University (July 2019 — September 2020)
 
 **Postdoctoral Researcher**, Systems Neuroscience Institute, Univ. Pittsburgh (Nov 2014 — June 2019)
 
