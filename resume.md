@@ -24,6 +24,8 @@ Data scientist, engineer and neuroscientist with over 12 years of experience in 
 
 ### Allen Institute for Brain Science
 *Scientist II*, Neural Coding
+- Investigation of visual coding properties of large-scale optical physiology datasets.
+- Development of an image co-registration pipeline for linking single-cell gene expression profiles to calcium imaging recordings.
 
 ### Carnegie Mellon University
 *Postdoctoral Research Associate*, Yu Laboratory, Department of Electrical and Computer Engineering
