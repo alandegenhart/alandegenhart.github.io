@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New position at the Allen Institute for Brain Science"
+title:  "Started position at the Allen Institute for Brain Science"
 date:   2020-10-01
 categories: 
 ---
