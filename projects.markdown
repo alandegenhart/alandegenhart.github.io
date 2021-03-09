@@ -17,8 +17,8 @@ layout: page
 
 Below are brief summaries of various academic projects that I have worked on through the years.
 
-- [Research](##research)
--- [Constraints on the dynamics of neural population activity](###constraints-on-the-dynamics-of-neural-population-activity)
+- [Research](#research)
+	- [Constraints on the dynamics of neural population activity](#constraints-on-the-dynamics-of-neural-population-activity)
 
 ---
 
