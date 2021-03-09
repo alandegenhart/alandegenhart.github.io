@@ -11,7 +11,7 @@ permalink: /about/
   margin-right: 15px;
   margin-top: 15px;
   margin-bottom: 15px;
-  width: 800px;
+  width: 900px;
   float: middle;
 }
 </style>
