@@ -9,8 +9,8 @@ I am a Scientist at the Allen Institute for Brain Science currently investigatin
 
 The links at the top of the page can be used to navigate through the site:
 - [**Projects**]({% link projects.markdown %}): Research, software, and methods projects.
-- [**Resume/CV**] ({% link  resume.md %}): Current version of my resume.
-- [**Publications**] ({% link publications.markdown %}): Complete list of my publications.
+- [**Resume/CV**]({% link resume.md %}): Current version of my resume.
+- [**Publications**]({% link publications.markdown %}): Complete list of my publications.
 - [**About**]({% link about.markdown %}): About me.
 
 For coding examples, please check out my [GitHub profile](https://github.com/alandegenhart).
