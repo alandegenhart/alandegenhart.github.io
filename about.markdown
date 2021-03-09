@@ -7,8 +7,8 @@ permalink: /about/
 <style type="text/css">
 .image-banner {
   display: block;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-top: 15px;
   margin-bottom: 15px;
   width: 900px;
