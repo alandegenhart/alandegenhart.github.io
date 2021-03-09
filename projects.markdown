@@ -15,10 +15,16 @@ layout: page
 }
 </style>
 
-Below are brief summaries of various academic projects that I have worked on through the years.
+Below are brief summaries of various academic projects that I have worked on through the years.  For software-related side projects and coding examples, please check out my [GitHub profile](https://github.com/alandegenhart).
 
-- [Research](#research)
+- [**Research**](#research)
 	- [Constraints on the dynamics of neural population activity](#constraints-on-the-dynamics-of-neural-population-activity)
+	- [A stabilized brain-computer interface based on neural manifold alignment](#a-stabilized-brain-computer-interface-based-on-neural-manifold-alignment)
+	- [Investigating learning using brain-computer interfaces](#investigating-learning-using-brain-computer-interfaces)
+	- [Three-dimensional BCI control by individuals with upper-limb paralysis using electrocorticography](#three-dimensional-bci-control-by-individuals-with-upper-limb-paralysis-using-electrocorticography)
+- [**Methods and software**](#methods-and-software)
+	- [A modular software framework for brain-computer interface research](#a-modular-software-framework-for-brain-computer-interface-research)
+	- [Improving decoding of information from Electrocorticographic recordings using Empirical Bayes](#improving-decoding-of-information-from-electrocorticographic-recordings-using-empirical-bayes)
 
 ---
 
@@ -79,7 +85,7 @@ As part of my graduate research, I led the development of a BCI software suite c
 
 <br>
 
-### Improving decoding of information from Electrocorticography recordings using Empirical Bayes
+### Improving decoding of information from Electrocorticographic recordings using Empirical Bayes
 
 [Coming soon]
 
