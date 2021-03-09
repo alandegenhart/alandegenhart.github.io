@@ -74,7 +74,7 @@ Electrocorticography (ECoG) has gained prominence as a potential source of contr
 - Wang, W., Collinger, J.L., **Degenhart, A.D.**, Tyler-Kabara, E.C., Schwartz, A.B., Moran, D.W., et al. An Electrocorticographic Brain Interface in an Individual with Tetraplegia. PLoS ONE, e55344 (2013). <https://doi.org/10.1371/journal.pone.0055344>
 - [Brain linked to robotic hand; success hailed (Pittsburgh Post-Gazette)](https://www.post-gazette.com/neighborhoods-city/2011/10/10/Brain-linked-to-robotic-hand-success-hailed/stories/201110100221)
 - [10 World-Changing Innovators for 2012 (Popular mechanics)](https://www.popularmechanics.com/technology/g978/10-world-changing-innovators-for-2012/?slide=7)
-- [Paralyzed Man Moves Robotic Arm With His Thoughts | UPMC (YouTube)](https://www.youtube.com/watch?v=yff20TlHv34)
+- [Paralyzed Man Moves Robotic Arm With His Thoughts - UPMC (YouTube)](https://www.youtube.com/watch?v=yff20TlHv34)
 
 <br>
 
