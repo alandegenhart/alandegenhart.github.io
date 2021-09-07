@@ -5,15 +5,17 @@ title: Publications
 layout: page
 ---
 
-I will try to keep this list as up-to-date as possible.  Alternatively, you can check out my [Google Scholar Profile][google_scholar].  My CV is available upon request.
+I will try to keep this list as up-to-date as possible. Alternatively, you can check out my [Google Scholar Profile][google_scholar]. My CV is available upon request.
 
 [google_scholar]: https://scholar.google.com/citations?hl=en&user=Lf-7jSsAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Journal Papers
 
-**Degenhart, A.D.**\*, Bishop, W.E.\*, Oby E.R., Tyler-Kabara E.C., Chase S.M.^, Batista A.P.^, Yu B.M.^ Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity. Nature Biomedical Engineering (2020). (\*,^: denotes equal contributions)
+Smoulder, A.L.\*, Pavlosky, N.P.\*, Marino, P.J.\*, **Degenhart, A.D.**, McClain, N.T., Batista, A.P.^, Chase, S.M.^  Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios.  Proceedings of the National Academy of Sciences (2021).  (\*,^: denotes equal contributions)  https://doi.org/10.1073/pnas.2109643118
 
-Oby, E.R., Golub, M.D., Hennig, J.A., **Degenhart, A.D.**, Tyler-Kabara, E.C., Yu, B.M., Chase, S.M., Batista, A.B.  New neural activity patterns emerge with long-term learning.  Proceedings of the National Academy of Sciences (PNAS) (2019).
+**Degenhart, A.D.**\*, Bishop, W.E.\*, Oby E.R., Tyler-Kabara E.C., Chase S.M.^, Batista A.P.^, Yu B.M.^ Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity. Nature Biomedical Engineering (2020). (\*,^: denotes equal contributions)  https://doi.org/10.1038/s41551-020-0542-9
+
+Oby, E.R., Golub, M.D., Hennig, J.A., **Degenhart, A.D.**, Tyler-Kabara, E.C., Yu, B.M., Chase, S.M., Batista, A.B. New neural activity patterns emerge with long-term learning. Proceedings of the National Academy of Sciences (PNAS) (2019).
 
 **Degenhart, A.D.**, et al. Remapping cortical modulation for electrocorticographic brain–computer interfaces: a somatotopy-based approach in individuals with upper-limb paralysis. Journal of Neural Engineering (2018).
 
